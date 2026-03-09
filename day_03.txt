@@ -1,1 +1,2 @@
 This is day 03 of vibe coding
+This will be fun to do but isn't effective
